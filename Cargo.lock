@@ -215,6 +215,7 @@ checksum = "bf97ee7261bb708fa3402fa9c17a54b70e90e3cb98afb3dc8999d5512cb03f94"
 dependencies = [
  "bitflags 2.6.0",
  "byteorder",
+ "chrono",
  "diesel_derives",
  "itoa",
 ]
